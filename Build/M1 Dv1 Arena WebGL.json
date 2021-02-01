@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "M1 DV1 Arena",
+"productVersion": "0.1",
+"dataUrl": "M1 Dv1 Arena WebGL.data.unityweb",
+"wasmCodeUrl": "M1 Dv1 Arena WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "M1 Dv1 Arena WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
